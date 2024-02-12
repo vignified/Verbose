@@ -1,0 +1,2 @@
+C:\Users\vigne\source\repos\Verbose\Verbose\obj\Debug\Verbose.csproj.AssemblyReference.cache
+C:\Users\vigne\source\repos\Verbose\Verbose\obj\Debug\Verbose.csproj.CoreCompileInputs.cache

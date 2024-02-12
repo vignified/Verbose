@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\VerboseManifest.xml
+C:\Users\vigne\source\repos\Verbose\Verbose\bin\Debug\Verbose.debugapp
